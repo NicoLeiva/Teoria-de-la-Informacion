@@ -1,0 +1,72 @@
+Nombre: 56-56	 Codificacion:0	  Longitud:1	Frecuencia:0.46949437
+Nombre: 56-13	 Codificacion:110011	  Longitud:6	Frecuencia:0.018597297
+Nombre: 56-129	 Codificacion:101011000	  Longitud:9	Frecuencia:0.0014623987
+Nombre: 56-167	 Codificacion:11010010010	  Longitud:11	Frecuencia:5.2425615E-4
+Nombre: 56-83	 Codificacion:110111	  Longitud:6	Frecuencia:0.022607397
+Nombre: 56-194	 Codificacion:101011001111	  Longitud:12	Frecuencia:2.1154195E-4
+Nombre: 56-245	 Codificacion:1010110010111000000	  Longitud:19	Frecuencia:0.0
+Nombre: 56-220	 Codificacion:10101100101111	  Longitud:14	Frecuencia:5.5184857E-5
+Nombre: 13-56	 Codificacion:110101	  Longitud:6	Frecuencia:0.019096082
+Nombre: 13-13	 Codificacion:101010	  Longitud:6	Frecuencia:0.0135362325
+Nombre: 13-129	 Codificacion:11010010101011	  Longitud:14	Frecuencia:9.08472E-5
+Nombre: 13-167	 Codificacion:110100100011010	  Longitud:15	Frecuencia:3.6338883E-5
+Nombre: 13-83	 Codificacion:110100100110	  Longitud:12	Frecuencia:2.9979576E-4
+Nombre: 13-194	 Codificacion:1010110010111000001	  Longitud:19	Frecuencia:0.0
+Nombre: 13-245	 Codificacion:1010110010111000010	  Longitud:19	Frecuencia:0.0
+Nombre: 13-220	 Codificacion:1010110010111000011	  Longitud:19	Frecuencia:0.0
+Nombre: 129-56	 Codificacion:1101001011	  Longitud:10	Frecuencia:0.0014465568
+Nombre: 129-13	 Codificacion:1010110111111	  Longitud:13	Frecuencia:1.1977858E-4
+Nombre: 129-129	 Codificacion:100	  Longitud:3	Frecuencia:0.08489538
+Nombre: 129-167	 Codificacion:1010111	  Longitud:7	Frecuencia:0.0071314326
+Nombre: 129-83	 Codificacion:101001	  Longitud:6	Frecuencia:0.012714958
+Nombre: 129-194	 Codificacion:10101101011	  Longitud:11	Frecuencia:4.3304564E-4
+Nombre: 129-245	 Codificacion:1010110010110	  Longitud:13	Frecuencia:9.213738E-5
+Nombre: 129-220	 Codificacion:1010110011100	  Longitud:13	Frecuencia:1.01351114E-4
+Nombre: 167-56	 Codificacion:11010010100	  Longitud:11	Frecuencia:6.325193E-4
+Nombre: 167-13	 Codificacion:110100100011011	  Longitud:15	Frecuencia:3.6667785E-5
+Nombre: 167-129	 Codificacion:1100100	  Longitud:7	Frecuencia:0.0077919047
+Nombre: 167-167	 Codificacion:1011	  Longitud:4	Frecuencia:0.057045907
+Nombre: 167-83	 Codificacion:1010110110	  Longitud:10	Frecuencia:9.075277E-4
+Nombre: 167-194	 Codificacion:11001011	  Longitud:8	Frecuencia:0.0045651393
+Nombre: 167-245	 Codificacion:1010110010100	  Longitud:13	Frecuencia:9.166946E-5
+Nombre: 167-220	 Codificacion:101011011110	  Longitud:12	Frecuencia:2.3834061E-4
+Nombre: 83-56	 Codificacion:110110	  Longitud:6	Frecuencia:0.022086442
+Nombre: 83-13	 Codificacion:101011001101	  Longitud:12	Frecuencia:2.0271244E-4
+Nombre: 83-129	 Codificacion:101000	  Longitud:6	Frecuencia:0.012457601
+Nombre: 83-167	 Codificacion:1010110100	  Longitud:10	Frecuencia:8.3849236E-4
+Nombre: 83-83	 Codificacion:111	  Longitud:3	Frecuencia:0.18844885
+Nombre: 83-194	 Codificacion:10101101110	  Longitud:11	Frecuencia:4.514959E-4
+Nombre: 83-245	 Codificacion:11010010001100	  Longitud:14	Frecuencia:5.5285214E-5
+Nombre: 83-220	 Codificacion:1101001000100	  Longitud:13	Frecuencia:1.19784614E-4
+Nombre: 194-56	 Codificacion:1101001010100	  Longitud:13	Frecuencia:1.4678009E-4
+Nombre: 194-13	 Codificacion:1010110010111000100	  Longitud:19	Frecuencia:0.0
+Nombre: 194-129	 Codificacion:10101101010	  Longitud:11	Frecuencia:4.2199274E-4
+Nombre: 194-167	 Codificacion:11010011	  Longitud:8	Frecuencia:0.0050088707
+Nombre: 194-83	 Codificacion:10101100100	  Longitud:11	Frecuencia:3.6695023E-4
+Nombre: 194-194	 Codificacion:11000	  Longitud:5	Frecuencia:0.03004405
+Nombre: 194-245	 Codificacion:1010110111110	  Longitud:13	Frecuencia:1.19258824E-4
+Nombre: 194-220	 Codificacion:110010100	  Longitud:9	Frecuencia:0.0019723575
+Nombre: 245-56	 Codificacion:1010110010111000101	  Longitud:19	Frecuencia:0.0
+Nombre: 245-13	 Codificacion:1010110010111000110	  Longitud:19	Frecuencia:0.0
+Nombre: 245-129	 Codificacion:11010010101010	  Longitud:14	Frecuencia:9.020415E-5
+Nombre: 245-167	 Codificacion:1101001000101	  Longitud:13	Frecuencia:1.2628581E-4
+Nombre: 245-83	 Codificacion:1010110010111001	  Longitud:16	Frecuencia:1.8040831E-5
+Nombre: 245-194	 Codificacion:1010110011101	  Longitud:13	Frecuencia:1.0824499E-4
+Nombre: 245-245	 Codificacion:11010010000	  Longitud:11	Frecuencia:4.7808202E-4
+Nombre: 245-220	 Codificacion:110100101011	  Longitud:12	Frecuencia:3.608166E-4
+Nombre: 220-56	 Codificacion:101011001011101	  Longitud:15	Frecuencia:2.7598464E-5
+Nombre: 220-13	 Codificacion:1010110010111000111	  Longitud:19	Frecuencia:0.0
+Nombre: 220-129	 Codificacion:1010110010101	  Longitud:13	Frecuencia:9.199488E-5
+Nombre: 220-167	 Codificacion:101011001100	  Longitud:12	Frecuencia:1.9318925E-4
+Nombre: 220-83	 Codificacion:1101001000111	  Longitud:13	Frecuencia:1.3799232E-4
+Nombre: 220-194	 Codificacion:110010101	  Longitud:9	Frecuencia:0.0020882837
+Nombre: 220-245	 Codificacion:110100100111	  Longitud:12	Frecuencia:3.127826E-4
+Nombre: 220-220	 Codificacion:1101000	  Longitud:7	Frecuencia:0.008969501
+
+
+
+
+
+
+Entropia: 0.7375955
+Longitud Media: 1.4002008

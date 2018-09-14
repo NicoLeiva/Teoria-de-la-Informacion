@@ -1,0 +1,12 @@
+Nombre: 13	 Codificacion:1	  Longitud:1	Frecuencia:0.8490535
+Nombre: 56	 Codificacion:01	  Longitud:2	Frecuencia:0.087041914
+Nombre: 83	 Codificacion:001	  Longitud:3	Frecuencia:0.04069403
+Nombre: 167	 Codificacion:000111	  Longitud:6	Frecuencia:0.0047886097
+Nombre: 129	 Codificacion:0000	  Longitud:4	Frecuencia:0.008597523
+Nombre: 194	 Codificacion:000110	  Longitud:6	Frecuencia:0.0036853068
+Nombre: 245	 Codificacion:000100	  Longitud:6	Frecuencia:0.0029070433
+Nombre: 220	 Codificacion:000101	  Longitud:6	Frecuencia:0.0032320828
+
+
+Entropia: 0.8719043
+Longitud Media: 1.2672879
